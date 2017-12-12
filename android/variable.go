@@ -89,7 +89,7 @@ type variableProperties struct {
 		}
 
 		// include broken variables
-		broken android.Product_variables
+		Broken android.Product_variables
 	} `android:"arch_variant"`
 }
 
